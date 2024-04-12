@@ -1,21 +1,21 @@
 body {
   font-family: Arial, sans-serif;
   text-align: center;
-  background-image: url('wall.png'); /* Add your background image URL */
+  background-image: url('wall.png'); 
   background-size: cover;
   background-position: center;
-  background-color: #f0f0f0; /* Fallback color */
+  background-color: #f0f0f0; 
   padding: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
-  margin: 0; /* Remove default body margin */
+  margin: 0; 
 }
 
 .container {
   max-width: 600px;
-  background-color: rgba(228, 147, 197, 0); /* Adjusted color with transparency */
+  background-color: rgba(228, 147, 197, 0); 
   padding: 20px;
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(224, 7, 126, 0);
